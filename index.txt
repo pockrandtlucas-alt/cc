@@ -68,6 +68,5 @@
   "Life is Beautiful",
   "Longing",
   "Passcode 4854",
-  "remember",
-  "erika"
+  "remember"
 }
