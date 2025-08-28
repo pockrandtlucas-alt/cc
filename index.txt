@@ -3,5 +3,6 @@
   "Puder",
   "Irgendwie",
   "Solomun",
+  "Boss",
   "erika"
 }
