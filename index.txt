@@ -1,5 +1,5 @@
 {
-  "Erika",
+  "My Code",
   "Akane Sasu",
   "Freesia",
   "Idol",
@@ -68,5 +68,6 @@
   "Life is Beautiful",
   "Longing",
   "Passcode 4854",
-  "remember" 
+  "remember",
+  "erika"
 }
