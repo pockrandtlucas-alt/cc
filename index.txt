@@ -1,6 +1,6 @@
 {
   "My Code",
   "puder",
-  "irgendwiee",
+  "irgendwie",
   "erika"
 }
